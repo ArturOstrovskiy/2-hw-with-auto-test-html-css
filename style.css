@@ -88,7 +88,7 @@ select {
 }
 
 .books-list {
-  padding-left: 20px;
+  padding: 0px 20px;
   font-weight: 400;
   font-size: 16px;
   /* Стили для нумерованного списка во второй секции */
@@ -140,13 +140,13 @@ table {
 th, td {
   border: 1px solid #95a1bb;
   font-size: 14px;
-  padding: 15px;
+  padding: 12px 15px;
   /* Стили для ячеек таблицы */
 }
 
 footer {
   background: rgba(163, 167, 255, 0.3);
-  padding: 26px 1px;
+  padding: 26px 0px;
   /* Стили для футера */
 }
 
@@ -154,5 +154,6 @@ footer {
   font-weight: 400;
   font-size: 14px;
   color: #2965f1;
+  text-decoration-line: none;
   /* Стили для футера */
 }
