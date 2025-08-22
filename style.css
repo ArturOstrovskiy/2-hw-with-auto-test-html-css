@@ -30,7 +30,7 @@ header span {
   height: 1024px;
   min-height: 100vh;
   background-color: #fafaff;
-  padding: 60px 60px;
+  padding: 60px 0;
   /* Стили для первой секции */
 }
 
